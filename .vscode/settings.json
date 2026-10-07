@@ -1,0 +1,18 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "strings.java",
+        "new.java",
+        "arrays2D.java",
+        "arrays.java",
+        "again.java",
+        "Stringbuilder",
+        "BinaryOperator.java",
+        "4th.java",
+        "3rd.java",
+        "2nd.java",
+        "22sep.java",
+        "1st.java",
+        "UrinaryOperator"
+    ]
+}
