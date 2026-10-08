@@ -1,5 +1,5 @@
 import java.util.*;
-public class fourthn {
+public class Circumference {
     public static double circumference(int r ){
         double area = 2 *3.14*r;
         System.out.println(area);

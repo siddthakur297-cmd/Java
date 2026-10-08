@@ -1,5 +1,5 @@
 import java.util.*;
-public class thirdn {
+public class PrintGreatestNumber {
     public static int printgreatest(int a , int b ){
         if(a>b){
             System.out.println("A is greatest");

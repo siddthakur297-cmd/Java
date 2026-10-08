@@ -1,5 +1,5 @@
 import java.util.*;
-public class fifthn {
+public class UsingConditionalStatement {
     public static boolean votingage(int age){
         if(age>=18){
             System.out.println("true");

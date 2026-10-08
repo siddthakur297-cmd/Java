@@ -1,5 +1,5 @@
 import java.util.*;
-public class anothern {
+public class ChackingAgeForVoting {
     public static int votingage(int age){
         if(age>=18){
             System.out.println("The persion has legal age for vote");

@@ -1,5 +1,5 @@
 import java.util.*;
-public class firstn {
+public class AverageCalculate {
     public static float averageofthree (int a , int b , int c){
         float average= (a+b+c)/3;
         return average;

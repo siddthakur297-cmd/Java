@@ -1,4 +1,4 @@
-public class ch {
+public class UsingDoWhile {
     public static void main(String[] args) {
         int counter = 1 ;
         do{

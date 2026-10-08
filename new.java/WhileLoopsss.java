@@ -1,4 +1,4 @@
-public class lk {
+public class WhileLoopsss {
     public static void main(String[] args) {
         int n = 2341;
         while(n>0){

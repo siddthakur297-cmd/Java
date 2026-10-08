@@ -1,5 +1,5 @@
 import java.util.*;
-public class ma {
+public class usingTwoLOOp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         do{

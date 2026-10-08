@@ -1,5 +1,5 @@
 import java.util.*;
-public class seoundn {
+public class CheackingNumberIsOdd {
     public static int oddnumber(int n){
         int sum = 1;
         for(int i =1;i<=n;i++){
