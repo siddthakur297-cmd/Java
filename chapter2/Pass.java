@@ -1,0 +1,9 @@
+import java.util.*;
+public class Pass {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        String type = a>=33 ? "Pass":"Fail";
+        System.out.println("the student is "+type);
+    }
+}

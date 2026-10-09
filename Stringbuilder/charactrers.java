@@ -1,4 +1,4 @@
-public class charactrers {
+public class Charactrers {
     public static void main(String[] args) {
         StringBuilder name= new StringBuilder("Tony");
         
